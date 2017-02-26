@@ -1,0 +1,17 @@
+*.o
+*~
+G*
+TAGS
+uls
+*.out
+ucat
+uwc
+bin/*
+*.yy.c
+*.tab.c
+obj/*
+gen/*
+*.log
+bin/*
+*/bin/*
+bin/
